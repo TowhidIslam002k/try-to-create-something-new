@@ -1,0 +1,155 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0%;
+    width: 100%;
+}
+
+.flexible-container {
+    margin-bottom: 140px;
+}
+
+.top-section {
+    background-image: url(images/banner1.png);
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+    margin-top: -55px;
+}
+
+.top-div {
+    /* text-align: right; */
+    padding-top: 216px;
+    margin-left: 845px;
+    /* margin-right: 230px; */
+
+}
+
+.top-headline {
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.top-paragraph {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.contact-link {
+    font-size: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.contact-button {
+    padding: 20px 25px;
+    background-color: #F15B22;
+    border: #F15B22;
+    border-radius: 5px;
+}
+
+.middle-div {
+    display: flex;
+}
+
+.mid-sec-first-div {
+    text-align: right;
+    margin-top: 250px;
+
+
+}
+
+.half-width img {
+    height: 723.3px;
+    width: 569px;
+    margin-left: 206px;
+    margin-right: 90px;
+}
+
+h5 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.plans-to-do {
+    display: flex;
+    margin-left: 230px;
+}
+
+.plans-top {
+    margin-top: 50px;
+    margin-right: 50px;
+    text-align: center;
+    margin-left: -60px;
+}
+
+.plans {
+    margin-top: 50px;
+    margin-right: 50px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.last-div {
+    margin-left: 65px;
+    padding-top: 60px;
+}
+
+.call-button {
+    padding: 20px 25px;
+    background-color: floralwhite;
+    border: floralwhite;
+    border-radius: 5px;
+    color: orangered;
+    font-size: 600;
+    font-size: 20px;
+}
+
+.last-section {
+    background-image: linear-gradient(to right, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(images/watch.png);
+
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 300px;
+    margin-left: 150px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #151414;
+    display: flex;
+    margin-bottom: 0%;
+    color: #F8F8F8;
+    width: 100%;
+}
+
+.social-icon {
+    width: 46px;
+    height: 48px;
+    font-size: 40px;
+}
+
+input {
+    background-color: rgb(155, 155, 155);
+    border: #151414;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+
+.la-div {
+    margin-left: 230px;
+    margin-top: 130px;
+}
+
+.la-div-btn {
+    margin-top: 150px;
+    margin-left: 500px;
+}
+
+button {
+    padding: 20px;
+    color: #F15B22;
+    font-size: 20px;
+}
